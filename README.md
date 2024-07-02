@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Richard Ryan Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Nantha kumar Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
