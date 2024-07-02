@@ -1,19 +1,19 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/richard-ryan)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/richard-ryan?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/richard-ryan?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Nantha_kumar?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Nantha_kumar?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
   [![YouTube Video Views](https://img.shields.io/youtube/views/jOA6ROBXdRE?style=social)](https://youtu.be/jOA6ROBXdRE)
 
   <br />
   <br />
 
-  <h2 align="center">Richard Ryan - Photographer Portfolio Website</h2>
+  <h2 align="center">Nantha kumar sport Website</h2>
 
-  Richard Ryan is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Nantha kumar sport is a fully responsivesport website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/richard-ryan/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/Harsh-ini4/Nantha_kumar_sport/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -31,18 +31,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Richard Ryan** locally, run this command on your git bash:
+To run **Nantha kumar** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/richard-ryan.git
+sudo git clone https://github.com/codewithsadee/Nantha kumar.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/richard-ryan.git
+git clone https://github.com/codewithsadee/Nantha kumar.git
 ```
 
 ### Contact
